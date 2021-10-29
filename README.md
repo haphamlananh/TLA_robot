@@ -1,5 +1,3 @@
-# TLA_robot
-trợ lý ảo đơn gian bằng tiếng anh
 import  speech_recognition 
 import pyttsx3
 from datetime import date, datetime
